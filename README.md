@@ -26,4 +26,4 @@ The demo shows how to build an e-commerce website using Nuxt.js + Apisful
     ```
     $ yarn build
     $ yarn generate
-    ``` 
+    ```
